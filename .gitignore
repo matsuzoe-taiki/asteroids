@@ -1,2 +1,4 @@
 __pycache__/
 .venv/
+/bootdev_run.sh
+/game_state.jsonl
